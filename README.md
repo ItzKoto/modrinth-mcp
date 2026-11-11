@@ -2,6 +2,7 @@
 
 A small [MCP](https://modelcontextprotocol.io) server that lets Claude manage your [Modrinth](https://modrinth.com) projects: create projects, publish new versions, and edit existing ones. It's a single Python file that runs locally over stdio.
 
+Made seperately from https://github.com/justinscott12/modrinth-mcp
 ## Tools
 
 | Tool | What it does |
